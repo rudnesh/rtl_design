@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1752681431" />
+    <testcase name="full_adder_test" classname="tb" file="/home/rud/Pictures/verlog_python/full_adder/tb.py" lineno="6" time="0.0008242130279541016" sim_time_ns="8.001" ratio_time="9707.441800404975" />
+  </testsuite>
+</testsuites>
